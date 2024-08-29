@@ -1,0 +1,87 @@
+@media screen and (min-width: 1350px) and (max-width: 1506px){    
+    .artistsimages{
+        margin-top: 18px;
+    }
+
+    .artistsimages div:nth-child(7){
+        display: none;
+    }
+
+    .Ist{
+        width: 178px;
+        background-color: #fff;
+    }
+
+    .istimage{
+        padding: 0px;
+        width: 146px;
+        background-color: aqua; 
+        margin-left: 17px;
+    }
+
+    .istimage img{
+        width: 9rem;
+        height: 140px;
+    }
+
+    .artistname{
+        width: 156px;
+        margin-left: 15px;
+        margin-top: 9px;
+    }
+
+    .artistname h3{
+        margin: 0px;
+    }
+
+    .artistname div:nth-child(1){
+        margin-bottom: 10px;
+    }
+
+
+
+   .albumsimages{
+       margin-top: 18px;
+    } 
+
+    .albumsimages div:nth-child(7){
+        /* display: none; */
+    }
+
+    .sec{
+        /* width: 178px; */
+        /* background-color: #fff; */
+    }
+
+    .secimage{
+        /* padding: 0px; */
+        /* width: 146px; */
+        /* background-color: aqua; */
+        /* margin-left: 17px; */
+    }
+
+    .secimage img{
+        /* width: 9rem; */
+        /* height: 140px; */
+    }
+
+    .albumname{
+        /* width: 156px; */
+        /* margin-left: 15px; */
+        /* margin-top: 9px; */
+    }
+
+    .albumname h3{
+        /* margin: 0px; */
+    }
+
+    .albumname div:nth-child(1){
+        /* margin-bottom: 10px; */
+    }
+    
+    .albumsimage{
+        /* margin-left: 0px; */
+        /* justify-content: ; */
+    }
+}
+ 
